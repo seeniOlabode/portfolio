@@ -1,0 +1,66 @@
+{
+  "skills": [
+    {
+      "name": "Vue",
+      "image": "vue"
+    },
+    {
+      "name": "Firebase",
+      "image": "firebase"
+    },
+    {
+      "name": "Tailwind",
+      "image": "tailwind"
+    },
+    {
+      "name": "HTML 5",
+      "image": "html"
+    },
+    {
+      "name": "JavaScript",
+      "image": "javascript"
+    },
+    {
+      "name": "CSS 3",
+      "image": "css"
+    },
+    {
+      "name": "Git",
+      "image": "git"
+    },
+    {
+      "name": "Design Theory",
+      "image": "design"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Kanban Task Management App",
+      "description": "This is a project from Frontend Mentor, I converted the UI design into a website using Vue and connected the frontend to a backend through APIs.",
+      "github": "https://github.com/seeniOlabode/kanban-task-management",
+      "live": "https://kanban-task-management.web.app/#/",
+      "preview": "kanban"
+    },
+    {
+      "name": "Markdown App",
+      "description": "Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents.",
+      "github": "https://github.com/seeniOlabode/markdown-app",
+      "live": "https://mark-down-app.web.app/",
+      "preview": "markdown"
+    },
+    {
+      "name": "Dev Jobs",
+      "description": "The Dev Jobs web app is a project from frontend mentor that I built using the VueJs Framework.",
+      "github": "https://github.com/seeniOlabode/dev-jobs",
+      "live": "https://developer-jobs.web.app/#/",
+      "preview": "devjobs"
+    },
+    {
+      "name": "Password Generator",
+      "description": "The password generator app is a Frontend Mentor Project, I converted UI Design into a web app using VueJs that generates a password based on user input.",
+      "github": "https://github.com/seeniOlabode/password-generator",
+      "live": "https://password-generator-component.web.app/",
+      "preview": "generator"
+    }
+  ]
+}
