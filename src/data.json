@@ -1,8 +1,16 @@
 {
   "skills": [
     {
-      "name": "Vue",
+      "name": "VueJs",
       "image": "vue"
+    },
+    {
+      "name": "NuxtJs",
+      "image": "nuxt"
+    },
+    {
+      "name": "TypeScript",
+      "image": "typescript"
     },
     {
       "name": "Firebase",
